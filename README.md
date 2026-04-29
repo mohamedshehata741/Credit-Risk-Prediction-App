@@ -2,6 +2,9 @@
 
 An interactive real-time web application designed to assess credit default risk using Machine Learning. This tool helps financial institutions make data-driven lending decisions by predicting the probability of a customer defaulting on a loan.
 
+### 📊 Project Preview
+![Streamlit Dashboard](Streamlit_churn.jpeg)
+
 ## 🚀 Live Features
 - **Real-time Prediction:** Adjust customer profiles using sliders and dropdowns to get instant risk assessments.
 - **Dynamic Visualizations:** Includes a Gauge Chart for risk probability and a decision breakdown bar.
